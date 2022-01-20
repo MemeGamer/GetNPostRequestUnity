@@ -34,7 +34,7 @@ public class Demo : MonoBehaviour {
    [SerializeField] Text uimanagmentText ;
    [SerializeField] RawImage uiRawImage ;
 
-   string jsonURL = "https://drive.google.com/uc?export=download&id=16I0DGNJIg8eh0HyzTFSt7TiYvYIWJB-7" ;
+   string jsonURL = "https://my-json-server.typicode.com/MemeGamer/MockData/UnityData" ;
 
    void Start () {
       StartCoroutine (GetData (jsonURL)) ;
