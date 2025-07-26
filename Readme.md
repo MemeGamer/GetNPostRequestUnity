@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Unity C\# Simple GET \& POST Request Example
 
 This project provides basic, beginner-friendly examples of performing **GET** and **POST** HTTP requests in Unity with C\#. It also demonstrates a simple workflow to use your own Google Drive–hosted JSON file as a live mock API source—perfect for simple prototyping, learning, and personal projects!
